@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Andy Dao"
   pronouns         : # example: "she/her"  
-  bio              : "Computer Science at the University of Houston"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Computer Science Major, Minor in Mathamatics"
+  location         : "Houston, Tx"
+  employer         : "University of Houston"
   uri              : "https://cs.uh.edu"
   email            : "andydao521@gmail.com" 
 
