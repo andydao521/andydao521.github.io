@@ -13,5 +13,5 @@ Outside the classroom, I am the founder of a Mobile Auto Detailing Business, whe
 
 In addition to my academic and professional pursuits, I am deeply involved in basketball. I regularly play and lift weights to maintain discipline and physical conditioning, and I also coach a competitive basketball team that has competed against universities across Texas. As a Sports Coordinator and coach, I’ve gained leadership experience through organizing practices, managing teams, and mentoring players. These experiences have shaped my teamwork, communication, and leadership skills—qualities I bring into both technical projects and collaborative environments.
 
-You can view my resume here: [Resume (PDF)](/files/AndyDaoResume-6.pdf).
+You can view my resume here: [Resume (PDF)](/files/AndyDaoResume.pdf).
 
